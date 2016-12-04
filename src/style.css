@@ -1,0 +1,55 @@
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+table, th, td {
+   border: 1px solid #999;
+}
+th, td {
+   padding: 5px;
+}
+table .date{
+	color: #777;
+    font-size: 11px;
+    display: block;
+}
+.text-center{
+	text-align: center;
+}
+.text-left{
+	text-align: left;
+}
+.text-right{
+	text-align: right;
+}
+.pull-left{
+	float: left;
+}
+.pull-right{
+	float: right;
+}
+.btn{
+	border: 1px solid #999;
+	padding: 5px 10px;
+	margin: 5px;
+    text-decoration: none;
+}
+.container{
+	width: 500px;
+	height: 800px;
+	padding: 10px;
+	border: 1px solid #ddd;
+}
+.form-control{
+	margin: 10px 20px;
+}
+.form-control label{
+	width: 100px;
+	text-align: right;
+	display: inline-block;
+	margin-right: 10px;
+}
+.filter{
+	margin: 10px 0;
+}
+
